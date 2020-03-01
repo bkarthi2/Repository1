@@ -34,6 +34,12 @@ public class HomePageTests extends WebDriverFactory {
 		System.out.println("this is demo1 project");
 		System.out.println("tis is demo 2 project");
 	}
+	
+	@Test
+	public void repomethods() {
+		
+		System.out.println("this is repo method");
+	}
 }
 
 
