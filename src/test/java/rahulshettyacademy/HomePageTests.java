@@ -32,6 +32,7 @@ public class HomePageTests extends WebDriverFactory {
 	public void Demo1method() {
 		
 		System.out.println("this is demo1 project");
+		System.out.println("tis is demo 2 project");
 	}
 }
 
