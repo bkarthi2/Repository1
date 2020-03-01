@@ -27,4 +27,12 @@ public class HomePageTests extends WebDriverFactory {
 	{
 		driver.close();
 	}
+	
+	@Test
+	public void Demo1method() {
+		
+		System.out.println("this is demo1 project");
+	}
 }
+
+
